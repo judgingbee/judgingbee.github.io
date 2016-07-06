@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://replace-this-with-your-hugo-site.com/</loc>
     <lastmod>2016-07-06T15:23:44+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/good-to-read/</loc>
+    <loc>http://replace-this-with-your-hugo-site.com/post/good-to-read/</loc>
     <lastmod>2016-07-06T15:23:44+09:00</lastmod>
   </url>
   
